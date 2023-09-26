@@ -31,6 +31,8 @@
 		<groupId>org.codehaus.cargo</groupId>
 		<artifactId>cargo-maven2-plugin</artifactId>
 		<version>1.7.6</version>
+		<sonar.host.url></sonar.host.url>
+		<sonar.token></sonar.token>
 		<configuration>
 			<container>
 				<containerId>tomcat9x</containerId>
